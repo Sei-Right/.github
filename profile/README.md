@@ -1,4 +1,4 @@
-## 👋 Hi, we are Arda: Risk Management for Digital Assets
+## 👋 Hi, we are Arda
 
 <!--
 
