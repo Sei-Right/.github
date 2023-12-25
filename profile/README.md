@@ -1,4 +1,4 @@
-## 👋 Hi, we are Arda
+## 👋 Hi, we are Sei, an Ai-powered marketing compliance platform
 
 <!--
 
